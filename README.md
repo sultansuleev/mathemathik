@@ -1,6 +1,6 @@
 
 # DelayJobs
-My simple project that I created for myself during "Discrete Maths" course, to Numerical Integration Method
+My simple project that I created for myself during "Mathematical Analysis" course, to Numerical Integration Method
 
 ## Programming Languages
 
