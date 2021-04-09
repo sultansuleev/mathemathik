@@ -4,7 +4,7 @@ My simple project that I created for myself during "Discrete Maths" course, to N
 
 ## Programming Languages
 
-- Html, CSS and JS
+- HTML, CSS and JS
 - ReactJS
 
 ## Packages
